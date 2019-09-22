@@ -7,7 +7,7 @@ customer={
     '地址':[],
 }
 
-s=input('Input:')
+s=input('')
 
 op1=s.split(r'!')
 tag=op1[0]#提取难度标识
